@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{%files/Rassaire_CV.pdf%}
+{% include base_path %}
+
+<a href='/files/Rassaire_CV.pd'>Download CV</a>
 
 Education
 ======
