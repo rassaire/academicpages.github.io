@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href='/files/Rassaire_CV.pd'>Download CV</a>
+<a href='/files/Rassaire_CV.pdf'>Download CV</a>
 
 Education
 ======
