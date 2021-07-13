@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jean-Rassaire Fouefack"#"Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : #"Jean-Rassaire Fouefack"#"Your Sidebar Name"
+  avatar           : "ID photo2.png"
   bio              : "Postdoctoral Research Fellow at INSERM"
   location         : "Brest, France"
   employer         :
