@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 ---
 title: "Geometric morphometrics for 3D dense surface correspondence: population comparisons of shoulder bone morphology"
 collection: publications
