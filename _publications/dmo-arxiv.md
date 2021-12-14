@@ -1,17 +1,17 @@
 
-
-
 ---
-title: "Dynamic multi-object Gaussian process models: A framework for data-driven functional modelling of human joints"
+title: "Paper Title Number 3"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: ''
-date: 2020-01-22
-venue: 'arXiv:2001.07904'
-paperurl: 'arXiv:2001.07904'
-citation: 'Fouefack JR., Borotikar B., Douglas T.S., Burdin V., Mutsvangwa T.E.M. &quot;Dynamic multi-object Gaussian process models: A framework for data-driven functional modelling of human joints.&quot; <i> arXiv preprint arXiv:2001.07904. 2020 Jan 22 </i>'
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
+This paper is about the number 3. The number 4 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-[Download paper here](https://arxiv.org/pdf/2001.07904)
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
 
