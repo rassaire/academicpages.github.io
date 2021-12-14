@@ -12,4 +12,4 @@ paperurl: 'arXiv preprint arXiv:2112.04495'
 
 [Download paper here](arXiv preprint arXiv:2112.04495)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
