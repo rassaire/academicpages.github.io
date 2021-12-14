@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Dynamic Multi-object Gaussian Process Models"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: ''
+date: 2020-10-01
+venue: 'Medical Image Computing and Computer Assisted Intervention – MICCAI'
+paperurl: 'https://doi.org/10.1007/978-3-030-59719-1_73'
+citation: 'Fouefack JR., Borotikar B., Douglas T.S., Burdin V., Mutsvangwa T.E.M. (2020)  &quot;Dynamic Multi-object Gaussian Process Models.&quot; <i> In: Martel A.L. et al. (eds) Medical Image Computing and Computer Assisted Intervention – MICCAI 2020. MICCAI 2020. Lecture Notes in Computer Science, vol 12264. Springer, Cham</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59719-1_73.pdf)
+
+
