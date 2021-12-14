@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2021-12-11
-venue: 'JArxiv'
+venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2112.04495'
 
 ---
