@@ -1,7 +1,7 @@
 ---
-title: "Dynamic Multi-object Gaussian Process Models"
+title: "Uncertainty Reduction in Contour-Based 3D/2D Registration of Bone Surfaces"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/4-2020-01-22-paper-title-number
 excerpt: ''
 date: 2020-10-01
 venue: 'International Workshop on Shape in Medical Imaging'
