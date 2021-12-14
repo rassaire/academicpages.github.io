@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Multi-object Gaussian Process Models"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/3-2020-01-22-paper-title-number
 excerpt: ''
 date: 2020-10-01
 venue: 'Medical Image Computing and Computer Assisted Intervention – MICCAI'
