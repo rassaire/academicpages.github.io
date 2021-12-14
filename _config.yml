@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jean-Rassaire Fouefack"
-  avatar           : "profile.png"
+  avatar           : "" # "profile.png"
   bio              : "Postdoctoral Research Fellow at INSERM"
   location         : "Brest, France"
   employer         :
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
