@@ -1,14 +1,14 @@
 ---
-title: "Dynamic Multi-object Gaussian Process Models"
+title: "Towards a framework for multi class statistical modelling of shape, intensity, and kinematics in medical images"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-date: 2020-10-01
-venue: 'Medical Image Computing and Computer Assisted Intervention – MICCAI'
-paperurl: 'https://doi.org/10.1007/978-3-030-59719-1_73'
-citation: 'Fouefack JR., Borotikar B., Douglas T.S., Burdin V., Mutsvangwa T.E.M. (2020) . &quot;Dynamic Multi-object Gaussian Process Models.&quot; <i> In: Martel A.L. et al. (eds) Medical Image Computing and Computer Assisted Intervention – MICCAI 2020. MICCAI 2020. Lecture Notes in Computer Science, vol 12264. Springer, Cham. </i>'
+date: 2021-10-01
+venue: 'Faculty of Health Sciences'
+paperurl: 'http://137.158.155.148/handle/11427/33746'
+citation: 'Fouefack JR. (2021) . &quot;Towards a framework for multi class statistical modelling of shape, intensity, and kinematics in medical images.&quot; <i> Faculty of Health Sciences, University of Cape Town </i>'
 ---
 
 
-[Download paper here](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59719-1_73.pdf)
+[Download paper here](http://137.158.155.148/handle/11427/33746)
 
