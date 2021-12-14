@@ -1,14 +1,14 @@
 ---
 title: "Dynamic multi feature-class Gaussian process models"
 collection: publications
-<!permalink: /publication/2009-10-01-paper-title-number-1>
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+<!-- permalink: /publication/2009-10-01-paper-title-number-1 -->
+<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.'-->
 date: 2021-12-11
 venue: 'Arxiv'
 paperurl: 'arXiv preprint arXiv:2112.04495'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+<!-- citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
 ---
-This paper is about the number 1. The number 2 is left for future work.
+<!-- This paper is about the number 1. The number 2 is left for future work. -->
 
 [Download paper here](arXiv preprint arXiv:2112.04495)
 
