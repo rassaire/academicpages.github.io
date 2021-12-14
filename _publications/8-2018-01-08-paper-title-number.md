@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-01-08
 venue: 'University of Cape Town'
 paperurl: 'https://open.uct.ac.za/handle/11427/30024'
-citation: 'Fouefack, J.R.(2018)  &quot;Geometric morphometrics for 3D dense surface correspondence: population comparisons of shoulder bone morphology.&quot; <i> (Master's thesis, Faculty of Health Sciences).</i>.'
+citation: 'Fouefack, J.R.(2018)  &quot;Geometric morphometrics for 3D dense surface correspondence: population comparisons of shoulder bone morphology (Master's thesis).&quot; <i>Faculty of Health Sciences.</i>.'
 ---
 
 
