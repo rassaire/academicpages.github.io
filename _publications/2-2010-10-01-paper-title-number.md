@@ -1,7 +1,7 @@
 ---
 title: "Towards a framework for multi class statistical modelling of shape, intensity, and kinematics in medical images"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2-2010-10-01-paper-title-number
 excerpt: ''
 date: 2021-10-01
 venue: 'Faculty of Health Sciences'
